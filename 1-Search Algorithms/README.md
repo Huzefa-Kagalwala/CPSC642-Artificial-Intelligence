@@ -9,10 +9,13 @@ The `search.py` file contains three functions to implement:
 **Note:** If you change line 205 to `open_set = Queue()`, the *depth_first_search()* function starts behaving like a Breadth First Search algorithm, as both are the same except for their implementation of their open lists.
 
 ### Depth First Search:
+![](https://github.com/Huzefa-Kagalwala/CPSC642-Artificial-Intelligence/blob/master/1-Search%20Algorithms/DFS.gif)
 
 ### Uniform Cost Search:
+![](https://github.com/Huzefa-Kagalwala/CPSC642-Artificial-Intelligence/blob/master/1-Search%20Algorithms/UCS.gif)
 
 ### A*:
+![](https://github.com/Huzefa-Kagalwala/CPSC642-Artificial-Intelligence/blob/master/1-Search%20Algorithms/A_star.gif)
 
 ## Instructions:
 1. Copy the `utils` folder too, as it contains the code for the search visualization.
