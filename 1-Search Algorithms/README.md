@@ -1,12 +1,12 @@
 # ASSIGNMENT 1: Search Algorithms
 ## Submitted by: Huzefa Shabbir Hussain Kagalwala
 
-The `search.py` file contains three functions to implement:
+In this project the following algorithms were implemented:
 1. Depth First Search
 2. Uniform Cost Search
 3. A*
 
-**Note:** If you change line 205 to `open_set = Queue()`, the *depth_first_search()* function starts behaving like a Breadth First Search algorithm, as both are the same except for their implementation of their open lists.
+**Note:** Due to conditions imposed to maintain academic inegrity, I am not allowed to share the solution to this assignment. Interested **recruiters** may reach out to me at <mailto:hkagalw@clemson.edu>
 
 ### Depth First Search:
 ![](https://github.com/Huzefa-Kagalwala/CPSC642-Artificial-Intelligence/blob/master/1-Search%20Algorithms/DFS.gif)
@@ -17,8 +17,5 @@ The `search.py` file contains three functions to implement:
 ### A*:
 ![](https://github.com/Huzefa-Kagalwala/CPSC642-Artificial-Intelligence/blob/master/1-Search%20Algorithms/A_star.gif)
 
-## Instructions:
-1. Copy the `utils` folder too, as it contains the code for the search visualization.
-2. Run the `search.py` file to get the results shown here.
 
 
