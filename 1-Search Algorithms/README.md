@@ -6,7 +6,7 @@ In this project the following algorithms were implemented:
 2. Uniform Cost Search
 3. A*
 
-**Note:** Due to conditions imposed to maintain academic inegrity, I am not allowed to share the solution to this assignment. Interested **recruiters** may reach out to me at <mailto:hkagalw@clemson.edu>
+**Note:** Due to conditions imposed to maintain academic inegrity, I am not allowed to share the solution to this assignment. Interested **recruiters** may reach out to me at <hkagalw@clemson.edu>
 
 ### Depth First Search:
 ![](https://github.com/Huzefa-Kagalwala/CPSC642-Artificial-Intelligence/blob/master/1-Search%20Algorithms/DFS.gif)
